@@ -1,0 +1,38 @@
+.app-container {
+  display: flex;
+}
+
+.Content {
+  width: 100%;
+}
+
+.sidebar {
+  min-height: 800px;
+}
+
+.post-card {
+  margin: 20px 50px;
+  min-width: 30rem;
+}
+
+
+.hashtag {
+  margin: 0px 3px;
+}
+
+.reactions {
+  width: 100%;
+  margin: 15px 0 0 0;
+}
+
+.create_post {
+  width: 80%;
+  margin: 10%;
+  padding: 20px;
+
+  background-color: aliceblue;
+}
+
+.welcomemessage {
+  margin: 100px 0;
+}
